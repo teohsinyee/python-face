@@ -1,4 +1,4 @@
-# python-face
+# Face recognition using Microsoft Face API
 
 Simple face detection & recognition exercise.
 
